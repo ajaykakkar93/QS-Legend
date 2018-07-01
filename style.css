@@ -1,0 +1,57 @@
+/* CSS */
+.qv-object-QS_Legend .my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 90%;
+    }
+ .qv-object-QS_Legend .my-legend .legend-scale ul {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+    float: left;
+    list-style: none;
+    }
+ .qv-object-QS_Legend .my-legend .legend-scale ul li {
+    font-size: 80%;
+    list-style: none;
+    margin-left: 0;
+    line-height: 18px;
+    margin-bottom: 2px;
+    }
+ .qv-object-QS_Legend .my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 16px;
+    width: 30px;
+    margin-right: 5px;
+    margin-left: 0;
+    border: 1px solid #999;
+    }
+ .qv-object-QS_Legend .my-legend .legend-source {
+    font-size: 70%;
+    color: #999;
+    clear: both;
+    }
+ .qv-object-QS_Legend .my-legend a {
+    color: #777;
+  }
+	
+/* Horizontal layout */
+
+	
+.qv-object-QS_Legend .my-legend .Horizontal-scale ul li {
+    display: block;
+    float: left;
+    width: 50px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 80%;
+    list-style: none;
+    }
+  .qv-object-QS_Legend .my-legend ul.Horizontal-labels li span {
+    display: block;
+    float: left;
+    height: 15px;
+    width: 50px;
+   }
