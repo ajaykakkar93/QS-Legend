@@ -1,4 +1,5 @@
 # QS-Legend
+
 Qlik Sense Basic Legend visualization add legend on fly
 
 <img style="width:50%;" src="./legend_3.PNG"><img style="width:50%;" src="./legend_4.PNG">
